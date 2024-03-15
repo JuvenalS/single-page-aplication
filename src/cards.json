@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "image": "./assets/img/doughnuts-4708891_640.jpg",
+    "title": "New seafood recipe perfect for losing weight",
+    "description": "mas communication has led to modern marketing strategies to continue focusing on brand awareness.",
+    "content": "conteúdo do article 1"
+  },
+  {
+    "id": "2",
+    "image": "./assets/img/burger-3962997_640.jpg",
+    "title": "New seafood recipe perfect for losing weight",
+    "description": "Mass communication has led to modern marketing strategies to continue focusing on brand awareness.",
+    "content": "conteúdo do article 2"
+  },
+  {
+    "id": "3",
+    "image": "./assets/img/fresh-fruits-basket-4692358_640.jpg",
+    "title": "New seafood recipe perfect for losing weight",
+    "description": "Large distributions and heavy promotions. The fast paced enviranment of digital payment service.",
+    "content": "conteúdo do article"
+  }
+]
